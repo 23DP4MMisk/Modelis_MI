@@ -1,0 +1,4 @@
+Datu kopas nosaukums: Heart Disease (Cleveland)
+Saite: https://archive.ics.uci.edu/dataset/45/heart+disease
+Lejupielādes datums: 2026-11-20
+Licence: CC BY 4.0
